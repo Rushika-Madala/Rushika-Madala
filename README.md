@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 This is the home of my projects, serious or unserious! 😉
 
-- 🔭 I’m currently working on Audio Source Separation and Speaker Separation
+- 🔭 I’m currently working on Audio Source Separation and Multi Speaker Isolation
 - 🌱 I’m currently learning Computational Neuroscience
 - 👯 I’m looking to collaborate on Deep Learning projects
 - ⚡ Fun fact: I am a Classical Dancer since age 7
