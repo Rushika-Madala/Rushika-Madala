@@ -8,9 +8,9 @@ This is the home of my projects, serious or unserious! 😉
 
 
 ## 💻 Technical Skills
-- **Programming Languages**: Python,Java,PHP,C/C++,HTML/CSS,Arduino,JavaScript,SQL.
-- **Machine Learning**: NLP, Computer Vision, Deep Learning, Classification, Regression
-- **Frameworks**: TensorFlow, PyTorch, OpenCV, Flask, Langchain
+- **Programming Languages**: Python,Java,C/C++,HTML/CSS,Arduino,JavaScript,SQL, Pinecone DB, Mongo DB
+- **Machine Learning**: RAG Applications, NLP, Computer Vision, Deep Learning, Classification
+- **Frameworks**: Nvidia NeMo, TensorFlow, PyTorch, OpenCV, Flask, Langchain
 - **Libraries**:  Pandas,NumPy,Scikit‑learn,Matplotlib, Seaborn, Selenium, Requests, BeautifulSoup
 - **Tools**: Git, Docker, Linux, Bash
 
