@@ -1,8 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 This is the home of my projects, serious and unserious! 😉
 
-- 🔭 I’m currently working on XAI for Medical Vision Models
-- 🌱 I’m currently learning Causal Inference
+- 🔭 I’m currently working on Skill Transfer for Heterogeneous Agents.
+- 🌱 I’m currently learning Multi-Agent Learning
 - 👯 I’m looking to collaborate on Deep Learning projects
 - ⚡ Fun fact: I am a Classical Dancer since age 7
 
